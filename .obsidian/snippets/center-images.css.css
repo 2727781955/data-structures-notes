@@ -1,0 +1,7 @@
+/* 让编辑器和预览模式下的图片居中 */
+.markdown-source-view.mod-cm6 .cm-content img,
+.markdown-rendered img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
